@@ -3,3 +3,7 @@ This message is from UAT branch.
 2. Add new register.html file.
 
 3. This new message is added from Main branch.
+
+4. Add new login.html file.
+
+5. This new message is added from UAT branch.
